@@ -23,5 +23,5 @@ Deno.test("flavors", () => {
 });
 
 Deno.test("version", () => {
-  assertEquals(version, "1.4.0"); // x-release-please-version
+  assertEquals(version, "2.0.0"); // x-release-please-version
 });
